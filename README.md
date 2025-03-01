@@ -13,7 +13,6 @@
 - [✨ Features](#-features)
 - [🛠 Tech Stack](#-tech-stack)
 - [🚀 Installation & Setup](#-installation--setup)
-- [🖼 Screenshots](#-screenshots)
 - [🔗 API Endpoints](#-api-endpoints)
 - [🌎 Deployment](#-deployment)
 - [📌 Future Enhancements](#-future-enhancements)
@@ -80,17 +79,6 @@ npm run dev
 
 🚀 Open **http://localhost:5173** to view the app!
 
----
-
-## 🖼 Screenshots
-
-### 🎮 **Game Interface**
-![Game UI](https://your-image-url.com/game-ui.png)
-
-### 🌍 **Challenge a Friend**
-![Challenge Page](https://your-image-url.com/challenge-ui.png)
-
----
 
 ## 🔗 API Endpoints
 
@@ -135,7 +123,7 @@ npm run dev
 ## 📢 Contributing
 
 🎉 Found a bug or want to enhance the game? **Fork & contribute!**  
-📩 **Contact:** jyoti@example.com  
+📩 **Contact:** singhjyoti242002@gmail.com  
 
 ---
 
